@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 1. **Quiz Layout & Flow**:
 
-● The application have a start page where the user should submit their name and email address to start quiz. <br>
+● The application have a start page where the user should submit their name and email address to start quiz. <br> 
 ● Then the application will display 15 questions to the user. <br>
 ● A timer will be displayed on the top of the page, counting down from 30 minutes. <br>
 ● Quiz will be auto-submit when the timer reaches zero. when 5 minuts left timer will become red to increse user experiance. <br>
