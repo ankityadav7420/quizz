@@ -1,3 +1,9 @@
+## Deployed Link:
+
+```bash
+https://quizz-ankit.vercel.app/
+```
+
 ## Getting Started
 
 First, run the development server:
@@ -12,6 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Description
 
 1. **Quiz Layout & Flow**:
+
 ● The application have a start page where the user should submit their name and email address to start quiz.
 ● Then the application will display 15 questions to the user.
 ● A timer will be displayed on the top of the page, counting down from 30 minutes.
